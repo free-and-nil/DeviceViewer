@@ -1,0 +1,117 @@
+object AboutDlg: TAboutDlg
+  Left = 261
+  Top = 307
+  ActiveControl = OKBtn
+  BorderStyle = bsDialog
+  Caption = 'About Dialog'
+  ClientHeight = 184
+  ClientWidth = 282
+  Color = clBtnFace
+  Font.Charset = ANSI_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -13
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = True
+  Position = poScreenCenter
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 16
+  object Bevel2: TBevel
+    Left = 12
+    Top = 16
+    Width = 257
+    Height = 125
+  end
+  object Bevel1: TBevel
+    Left = 27
+    Top = 32
+    Width = 49
+    Height = 49
+    Style = bsRaised
+  end
+  object IconImage: TImage
+    Left = 35
+    Top = 40
+    Width = 32
+    Height = 32
+  end
+  object VerLbl: TLabel
+    Left = 29
+    Top = 92
+    Width = 225
+    Height = 20
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'VerLbl'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object CompanyLbl: TLabel
+    Left = 80
+    Top = 64
+    Width = 181
+    Height = 16
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'CompanyLbl'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -12
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object CommentLbl: TLabel
+    Left = 29
+    Top = 120
+    Width = 225
+    Height = 16
+    Alignment = taCenter
+    AutoSize = False
+    Caption = 'CommentLbl'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object OKBtn: TButton
+    Left = 103
+    Top = 153
+    Width = 75
+    Height = 25
+    Caption = 'OK'
+    Default = True
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ModalResult = 1
+    ParentFont = False
+    TabOrder = 0
+  end
+  object AppNameLbl: TStaticText
+    Left = 80
+    Top = 36
+    Width = 110
+    Height = 27
+    Alignment = taCenter
+    Caption = 'AppNameLbl'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -19
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 1
+  end
+end

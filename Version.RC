@@ -1,0 +1,41 @@
+
+// #include <ver.h>
+
+// The version information resource
+VS_VERSION_INFO         VERSIONINFO
+FILEVERSION             1, 3, 5, 1
+PRODUCTVERSION          1, 3
+FILEFLAGSMASK           VS_FFI_FILEFLAGSMASK
+FILEFLAGS               VS_FF_SPECIALBUILD
+FILEOS                  VOS_NT_WINDOWS32
+FILETYPE                VFT_APP  /* EXE-Programm */
+FILESUBTYPE             VFT2_UNKNOWN
+BEGIN
+   BLOCK "VarFileInfo"
+   BEGIN
+//      VALUE "Translation", 0x0407, 1252  /* Deutsch */
+        VALUE "Translation", 0x0409, 1252  /* US-Englisch */
+   END
+
+   BLOCK "StringFileInfo"
+   BEGIN
+//      BLOCK "040704E4"  /* Deutsch */
+      BLOCK "040904E4"  /* US-Englisch */
+      BEGIN
+         VALUE "Comments",         "Programmer: Olaf Hess\0"
+         VALUE "CompanyName",      "\0"
+         VALUE "FileDescription",  "Device Viewer\0"
+         VALUE "FileVersion",      "1.3.5.1\0"
+         VALUE "InternalName",     "Device Viewer\0"
+         VALUE "LegalCopyright",   "\0"
+         VALUE "LegalTrademarks",  "\0"
+         VALUE "OriginalFilename", "DeviceViewer.exe\0"
+//       VALUE "PrivateBuild",     "\0"
+         VALUE "ProductName",      "DeviceViewer\0"
+         VALUE "ProductVersion",   "1.03\0"
+//       VALUE "SpecialBuild",     "\0"
+      END
+
+   END
+END
+

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units Count="41">
+      <Unit0>
+        <Filename Value="DeviceViewer.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="34" Y="28"/>
+        <UsageCount Value="35"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\..\PASTOOLS\LazarusShellImageListU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="114"/>
+        <CursorPos Y="172"/>
+        <UsageCount Value="35"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\CmdLine\MainU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="70"/>
+        <CursorPos X="35" Y="95"/>
+        <UsageCount Value="34"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\DevViewerMainFormU.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DeviceViewerForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="60"/>
+        <CursorPos X="9" Y="99"/>
+        <UsageCount Value="24"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\PASTOOLS\AboutDlgU.pas"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="150"/>
+        <CursorPos Y="155"/>
+        <UsageCount Value="22"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="DevViewerMainFormU.pas"/>
+        <ComponentName Value="DeviceViewerForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainFormU"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="15" Y="7"/>
+        <UsageCount Value="31"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\PasTools\AboutDlgU.dfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\PasTools\Win32ToolsU.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\PasTools\NativeApiToolsU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="200"/>
+        <CursorPos X="51" Y="226"/>
+        <UsageCount Value="9"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\PasTools\Get_BIOS_InfoU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="76"/>
+        <CursorPos X="70" Y="105"/>
+        <UsageCount Value="9"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\PASTOOLS\DeviceViewerU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1105"/>
+        <CursorPos Y="1130"/>
+        <UsageCount Value="10"/>
+        <Bookmarks Count="1">
+          <Item0 X="60" Y="1136" ID="2"/>
+        </Bookmarks>
+      </Unit10>
+      <Unit11>
+        <Filename Value="..\PasTools\SetupApi_ImportU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="419"/>
+        <CursorPos X="57" Y="450"/>
+        <UsageCount Value="10"/>
+        <Bookmarks Count="1">
+          <Item0 X="26" Y="451" ID="1"/>
+        </Bookmarks>
+      </Unit11>
+      <Unit12>
+        <Filename Value="D:\Lazarus_2_0_10\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2367"/>
+        <CursorPos X="3" Y="2396"/>
+        <UsageCount Value="9"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="D:\Lazarus_2_0_10\lcl\imglist.pp"/>
+        <UnitName Value="ImgList"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="64"/>
+        <CursorPos X="71" Y="93"/>
+        <UsageCount Value="9"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\PasTools\NativeApi_ImportU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="272"/>
+        <CursorPos X="5" Y="305"/>
+        <UsageCount Value="9"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\Version.RC"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="19"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="D:\Lazarus_2_0_10\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1819"/>
+        <CursorPos X="3" Y="1848"/>
+        <UsageCount Value="9"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\FormatOutputU.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="44" Y="23"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\PasTools\BitOperationsU.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="27" Y="30"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="..\PasTools\CPU_CountU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6"/>
+        <CursorPos X="47" Y="36"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="..\PasTools\WindowsDisplayName_WMI_U.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="25" Y="11"/>
+        <UsageCount Value="10"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="..\FillDevicesThreadU.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="6"/>
+        <UsageCount Value="10"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="..\PasTools\TaskDlgU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="246"/>
+        <CursorPos Y="269"/>
+        <UsageCount Value="10"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="..\PASTOOLS\CmdLineU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="125"/>
+        <CursorPos X="31" Y="151"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="D:\Lazarus_3_2_02\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1690"/>
+        <CursorPos X="17" Y="1705"/>
+        <UsageCount Value="10"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="D:\Lazarus_3_2_02\lcl\imglist.pp"/>
+        <UnitName Value="ImgList"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="300"/>
+        <CursorPos X="47" Y="352"/>
+        <UsageCount Value="10"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="D:\Lazarus_3_2_02\lcl\include\imglist.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1391"/>
+        <CursorPos X="3" Y="1396"/>
+        <UsageCount Value="10"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="..\PasTools\LazarusShellImageListU.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <CursorPos Y="58"/>
+        <UsageCount Value="10"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="D:\Lazarus_3_2_02\fpc\3.2.2\source\rtl\win\wininc\base.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="98"/>
+        <CursorPos X="6" Y="128"/>
+        <UsageCount Value="10"/>
+      </Unit28>
+      <Unit29>
+        <Filename Value="D:\Lazarus_3_2_02\fpc\3.2.2\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="302"/>
+        <CursorPos X="3" Y="332"/>
+        <UsageCount Value="10"/>
+      </Unit29>
+      <Unit30>
+        <Filename Value="..\PASTOOLS\AboutDlgU.pas"/>
+        <ComponentName Value="AboutDlg"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="140"/>
+        <CursorPos X="46" Y="152"/>
+        <UsageCount Value="10"/>
+      </Unit30>
+      <Unit31>
+        <Filename Value="..\PASTOOLS\WinTools.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="174"/>
+        <CursorPos Y="194"/>
+        <UsageCount Value="10"/>
+      </Unit31>
+      <Unit32>
+        <Filename Value="D:\Lazarus_3_2_02\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="188"/>
+        <CursorPos X="17" Y="203"/>
+        <UsageCount Value="10"/>
+      </Unit32>
+      <Unit33>
+        <Filename Value="D:\Lazarus_3_2_02\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2040"/>
+        <CursorPos X="3" Y="2045"/>
+        <UsageCount Value="10"/>
+      </Unit33>
+      <Unit34>
+        <Filename Value="D:\Lazarus_3_2_02\lcl\include\customdesigncontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="16"/>
+        <UsageCount Value="10"/>
+      </Unit34>
+      <Unit35>
+        <Filename Value="D:\Lazarus_3_2_02\lcl\include\scrollingwincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="335"/>
+        <CursorPos X="17" Y="338"/>
+        <UsageCount Value="10"/>
+      </Unit35>
+      <Unit36>
+        <Filename Value="D:\Lazarus_3_2_02\lcl\include\customcontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="24"/>
+        <UsageCount Value="10"/>
+      </Unit36>
+      <Unit37>
+        <Filename Value="D:\Lazarus_3_2_02\lcl\include\wincontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6545"/>
+        <CursorPos X="3" Y="6554"/>
+        <UsageCount Value="10"/>
+      </Unit37>
+      <Unit38>
+        <Filename Value="D:\Lazarus_3_2_02\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5233"/>
+        <CursorPos X="3" Y="5245"/>
+        <UsageCount Value="10"/>
+      </Unit38>
+      <Unit39>
+        <Filename Value="D:\Lazarus_3_2_02\fpc\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1944"/>
+        <CursorPos X="17" Y="1959"/>
+        <UsageCount Value="10"/>
+      </Unit39>
+      <Unit40>
+        <Filename Value="D:\Lazarus_3_2_02\fpc\3.2.2\source\rtl\objpas\classes\compon.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="458"/>
+        <CursorPos X="3" Y="461"/>
+        <UsageCount Value="10"/>
+      </Unit40>
+    </Units>
+    <OtherDefines Count="2">
+      <Define0 Value="IMAGE_LIST"/>
+      <Define1 Value="DeviceViewer"/>
+    </OtherDefines>
+    <JumpHistory Count="1">
+      <Position1>
+        <Filename Value="DeviceViewer.lpr"/>
+        <Caret Line="35" Column="20" TopLine="12"/>
+      </Position1>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="1" ActiveMode="default">
+        <Mode0 Name="default"/>
+      </Modes>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\..\..\PASTOOLS\AboutDlgU.pas"/>
+        <Line Value="200"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\..\..\PASTOOLS\AboutDlgU.pas"/>
+        <Line Value="155"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
